@@ -7,4 +7,6 @@ NAMA KELOMPOK 2 : <br>
 1) PRITA EKA GIA NINA 		(21104410002) [Github]
 2) PURI AYU PURWANINGSIH 	(21104410017) [Github] 
 3) M. IKHSAN MANDIRRI 		(21104410070) [Github] (https://github.com/muhikhsanm404/)
+ 
+ [Github](https://github.com/NafMn) 
 
